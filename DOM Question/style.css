@@ -1,0 +1,27 @@
+.box{
+    height:100px;
+    width:90px;
+    border: 2px solid black;
+    text-align:center;
+    background-color: aqua;
+
+}
+#gajendra{
+    height: 250px;
+    width: 250px;
+    background-color: pink;
+    border: 5px solid rgb(255, 0, 0);   
+}
+ul{
+    color:rgb(0, 136, 255);
+}
+#list{
+    height: 250px;
+    width: 200px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 25px;
+    
+}
